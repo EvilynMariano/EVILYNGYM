@@ -1,0 +1,33 @@
+body {
+    color: rgb(254,53,131,1);
+    background:black;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(254,53,131,1);
+    padding: 20px;
+    font-size: 30px;
+    color:rgb(254,53,131,1);
+}
+
+section {
+    background: rgb(254,215,222,1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20;
+}
